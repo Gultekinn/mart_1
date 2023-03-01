@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\array1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\array1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\array1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\array1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\array1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\array1\array1\bin\Debug\net6.0\array1.exe
+C:\Users\Acer\Desktop\array1\array1\bin\Debug\net6.0\array1.deps.json
+C:\Users\Acer\Desktop\array1\array1\bin\Debug\net6.0\array1.runtimeconfig.json
+C:\Users\Acer\Desktop\array1\array1\bin\Debug\net6.0\array1.dll
+C:\Users\Acer\Desktop\array1\array1\bin\Debug\net6.0\array1.pdb
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\array1.dll
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\refint\array1.dll
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\array1.pdb
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\array1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\array1\array1\obj\Debug\net6.0\ref\array1.dll
